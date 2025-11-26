@@ -1,6 +1,6 @@
-# Hola, soy [Tu Nombre]
+# Hola, soy Andrés Martín
 
-Desarrollador web con más de diez años de experiencia, especializado en backend seguro, optimización de servidores y desarrollo de soluciones a medida. Trabajo principalmente en entornos Linux (Debian KDE) y gestiono mi propia infraestructura con Apache, MariaDB y servicios asociados.
+Desarrollador web con más de doce años de experiencia, especializado en backend seguro, optimización de servidores y desarrollo de soluciones a medida. Trabajo principalmente en entornos Linux (Debian KDE) y gestiono mi propia infraestructura con Apache, MariaDB y servicios asociados.
 
 Dirijo **X Software**, donde creo proyectos personalizados para clientes que necesitan soluciones fiables, rápidas y bien diseñadas.
 
@@ -78,7 +78,7 @@ Este perfil incluye algunos proyectos públicos pensados para mostrar mi forma d
 ## 📬 Contacto
 
 - Web: **https://xsoftware.es**  
-- Email: *(tu correo)*  
+- Email: [andres@xsoftware.es](mailto:andres@xsoftware.es)  
 - Proyecto personal y portfolio en constante ampliación.
 
 ---

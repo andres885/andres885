@@ -62,19 +62,6 @@ La mayoría de mis proyectos son privados por motivos de propiedad intelectual o
 
 ---
 
-## 📁 Repos públicos
-
-Este perfil incluye algunos proyectos públicos pensados para mostrar mi forma de trabajar sin exponer software propietario:
-
-- Plantillas iniciales
-- Pequeñas librerías
-- Snippets reutilizables
-- Documentación técnica
-
-*(Si los estás creando ahora, puedes rellenar esta sección más adelante.)*
-
----
-
 ## 📬 Contacto
 
 - Web: **https://xsoftware.es**  

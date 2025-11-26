@@ -65,7 +65,7 @@ La mayoría de mis proyectos son privados por motivos de propiedad intelectual o
 ## 📬 Contacto
 
 - Web: **https://xsoftware.es**  
-- Email: [andres@xsoftware.es](mailto:andres@xsoftware.es)  
+- Email: **[andres@xsoftware.es](mailto:andres@xsoftware.es)**  
 - Proyecto personal y portfolio en constante ampliación.
 
 ---

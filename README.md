@@ -67,7 +67,3 @@ La mayoría de mis proyectos son privados por motivos de propiedad intelectual o
 - Web: **https://xsoftware.es**  
 - Email: **[info@xsoftware.es](mailto:info@xsoftware.es)**  
 - Proyecto personal y portfolio en constante ampliación.
-
----
-
-Si quieres ver ejemplos de código real, puedo dar acceso privado a proyectos concretos previa solicitud profesional.

@@ -1,6 +1,6 @@
 # Hola, soy Andrés Martín
 
-Desarrollador web con más de doce años de experiencia, especializado en backend seguro, optimización de servidores y desarrollo de soluciones a medida. Trabajo principalmente en entornos Linux (Debian KDE) y gestiono mi propia infraestructura con Apache, MariaDB y servicios asociados.
+Desarrollador web con más de diez años de experiencia, especializado en backend seguro, optimización de servidores y desarrollo de soluciones a medida. Trabajo principalmente en entornos Linux (Debian KDE) y gestiono mi propia infraestructura con Apache, MariaDB y servicios asociados.
 
 Dirijo **X Software**, donde creo proyectos personalizados para clientes que necesitan soluciones fiables, rápidas y bien diseñadas.
 
@@ -51,7 +51,7 @@ La mayoría de mis proyectos son privados por motivos de propiedad intelectual o
 **DevOps y sistemas**
 - Debian KDE  
 - Bash  
-- Gestión de servicios (Apache, MariaDB, Sendmail/Postfix, PipeWire en entorno local)  
+- Gestión de servicios (Apache, MariaDB, Sendmail/Postfix)  
 - Virtualización local para entornos de desarrollo  
 - Git flujo clásico y ramas de despliegue seguro  
 

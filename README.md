@@ -66,5 +66,5 @@ Aunque la mayor parte de mi trabajo se encuentra bajo acuerdos de confidencialid
 Disponible para **arquitectura de software a medida, consultoría técnica de alto nivel, rescate/auditoría de sistemas críticos e integración de IA en procesos de negocio**.
 
 * 🌐 **Web Corporativa & Soluciones:** [https://xsoftware.es](https://xsoftware.es)
-* ✉️ **Email Directo:** [info@xsoftware.es](mailto:info@xsoftware.es) / [info@xsoftware.com](mailto:info@xsoftware.com)
+* ✉️ **Email Directo:** [info@xsoftware.es](mailto:info@xsoftware.es)
 * 📍 **Ubicación:** Castellón de la Plana, España *(Operativa global en remoto)*

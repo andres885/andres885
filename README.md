@@ -41,16 +41,18 @@ A través de **[X Software](https://xsoftware.es)**, desarrollo e implemento inf
 
 ---
 
-## 🚀 Ingeniería y Arquitectura de Proyectos (Showcases)
+## 🔒 Motores Propietarios & I+D (Acceso bajo NDA)
 
-Por motivos de propiedad intelectual y acuerdos de confidencialidad (NDA), el código fuente de mis motores comerciales y de clientes se mantiene en repositorios privados. A continuación se detallan algunas de mis arquitecturas internas y herramientas de ingeniería:
+Todo el código fuente, arquitecturas e investigación interna de **X Software** se mantienen en repositorios privados para proteger la propiedad intelectual y la ventaja competitiva de nuestros clientes. 
 
-* **`double-agent` (Optimizador de Contexto IA):** Sistema basado en el patrón *Architect/Editor* que utiliza análisis AST y modelos locales para reducir el consumo de tokens entre un **85% y un 95%** en bases de código grandes, aplicando parches deterministas en disco.
-* **`weather-alpha` (Motor de Trading Cuantitativo):** Plataforma de ejecución táctica en tiempo real sobre mercados de predicción (CLOB L2). Construida con FastAPI, XGBoost, PostgreSQL/TimescaleDB y Docker.
-* **`web-extractor` (Visión para Agentes IA):** Microservicio en FastAPI + Playwright basado en el paradigma *Set-of-Mark (SoM)* para extracción web estructurada e inyección de *bounding boxes* orientadas a modelos multimodales.
-* **`transcriptor` & `voice-assistant` (IA Acústica con CUDA):** Ecosistema de procesamiento de audio con FFmpeg, transcripción en lote e inyección de voz offline en tiempo real en Linux utilizando Whisper y aceleración por GPU.
-* **`ffmpeg-gui` (Desktop App en Rust):** Aplicación multiplataforma (Linux, Windows, macOS) desarrollada con **Rust y Tauri v2** para recodificación y optimización automatizada de vídeo con CI/CD en GitHub Actions.
-* **`backup-system-3-2-1` (Disaster Recovery):** Arquitectura de copias de seguridad automatizada en cascada para servidores Debian, con deduplicación y cifrado mediante Restic, Rclone y Systemd Timers.
+El acceso a demostraciones técnicas de bajo nivel o auditorías de código se habilita exclusivamente para clientes cualificados durante el proceso de evaluación. Entre nuestros activos tecnológicos en producción destacan:
+
+* **Motor de Optimización de Contexto e Inferencia IA:** Arquitectura propietaria para la compresión algorítmica de grandes bases de código y orquestación de modelos de lenguaje, logrando reducciones del **85% al 95% en costes operativos de tokens** sin pérdida de precisión.
+* **Infraestructura de Ejecución Cuantitativa de Baja Latencia:** Sistema de análisis táctico en tiempo real e inferencia probabilística con aprendizaje automático sobre series temporales y libros de órdenes financieros.
+* **Pipeline de Visión Artificial y Extracción Estructural:** Microservicios de renderizado e interpretación visual automatizada para la navegación y extracción de datos complejos mediante agentes autónomos.
+* **Ecosistema Acústico y Control por Voz con Aceleración Hardware:** Procesamiento neuronal de audio y transcripción e inyección de voz en tiempo real de latencia cero ejecutado íntegramente en local mediante GPU (`CUDA`).
+* **Pipeline 3D en Tiempo Real y Herramientas Nativas:** Flujo propio de optimización extrema de geometría, texturas e iluminación desde Blender hacia motores web y aplicaciones de escritorio multiplataforma en **Rust**.
+* **Arquitectura de Continuidad de Negocio y Recuperación (3-2-1):** Sistemas automatizados de respaldo en cascada con deduplicación y cifrado de grado militar para servidores Linux en producción.
 
 ---
 
